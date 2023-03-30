@@ -8,3 +8,9 @@
 
 // Score
 (()=>{score=Number(prompt('what Score?'));setBigScore()})()
+
+// Immortal (No Gravity recommended).
+playerDead=playerScore
+
+// No gravity (Immortal recommended)
+(()=>{gravity = 0;jump=0;})()
