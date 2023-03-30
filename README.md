@@ -1,8 +1,9 @@
 # Homemade
-Some hacks for little offline games that I made.
+Some hacks that I made for little offline games.
 
 ## Games
 - Boxel Rebound 🎲
+- Flappy Bird 🐥
 
 ## Insert code
 1. Open Devtools
