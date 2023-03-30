@@ -12,5 +12,5 @@ Shortcuts: CTRL + SHIFT + i (Windows) 🪟 \
 Now it should look like this:
 ![alt text](Images/devtools.png "Title")
 Now for the console you can choose one of these:
-![alt text](Images/console.png "Title")
+![alt text](Images/console.png "Title") \
 Then paste the code at the arrow.
