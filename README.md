@@ -13,4 +13,4 @@ Now it should look like this: \
 <img src="Images/devtools.png" alt="" width="300"/> \
 Now for the console you can choose one of these: \
 <img src="Images/console.png" alt="" width="300"/> \
-Then paste the code at the arrow.
+Then paste the code at the arrow in the console.
