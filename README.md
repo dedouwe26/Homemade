@@ -9,7 +9,7 @@ Some hacks that I made for little offline games.
 ## Insert code
 1. Open Devtools
 Shortcuts: CTRL + SHIFT + i (Windows) 🪟 \
-           COMMAND + SHIFT + i (Mac) 🍎
+           COMMAND + SHIFT + i (Mac) 🍎 \
    Or right click the extension window and click inspect.
 3. Open the console \
 Now it should look like this: \
