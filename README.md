@@ -4,6 +4,7 @@ Some hacks that I made for little offline games.
 ## Games
 - Boxel Rebound 🎲
 - Flappy Bird 🐥
+- Stacker 🔲
 
 ## Insert code
 1. Open Devtools
